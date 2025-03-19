@@ -96,5 +96,5 @@ This information can be valuable for strategic decision-making, such as identify
 Database Name: ns_Sp25_21482_Group7
 
 For all calls, please use the following format:\
-CALL TP_Qk();\
-where k takes values 1 - 10, corresponding to each query call.
+CALL TP_Qx();\
+where x takes values 1 - 10, corresponding to each query call.
