@@ -68,7 +68,7 @@ From this info we as a buisness can quickly see which subscription plans are the
 By being able to see which suppliers have shipped more than 10,500 pounds in weight it will help spot who our biggest suppliers are. By being able to see who of our suppliers are moving most of the product, we can see who our best suppliers and most important partners are. we can also see the suppliers who aren’t meeting that threshold, which could raise questions about their efficiency and question our choices.
 
 
- 6. QUERY 6(Simple): What Query 6 does is display subscription ID, email, status, and start date for any subscription is currently Active” and started in 2024.
+ 6. QUERY 6 (Simple): What Query 6 does is display subscription ID, email, status, and start date for any subscription is currently Active” and started in 2024.
 
 
 <img width="983" alt="Screenshot 2025-03-17 at 4 15 21 PM" src="https://github.com/user-attachments/assets/eaa30e9c-ae9f-417c-bbee-9c9ec613db7c" />
@@ -101,13 +101,13 @@ This information can be valuable for strategic decision-making, such as identify
 
 ## Database Information
 
-CALL TP_Q1();
-CALL TP_Q2();
-CALL TP_Q4();
-CALL TP_Q4();
-CALL TP_Q5();
-CALL TP_Q6();
-CALL TP_Q7();
-CALL TP_Q8();
-CALL TP_Q9();
-CALL TP_Q10();
+CALL TP_Q1();\
+CALL TP_Q2();\
+CALL TP_Q4();\
+CALL TP_Q4();\
+CALL TP_Q5();\
+CALL TP_Q6();\
+CALL TP_Q7();\
+CALL TP_Q8();\
+CALL TP_Q9();\
+CALL TP_Q10();\
