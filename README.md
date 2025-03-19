@@ -36,6 +36,8 @@ Our final branch concerns both our subscribers, their orders, and the shipments 
 
 ## Queries
 
+![Screenshot 2025-03-18 214724](https://github.com/user-attachments/assets/c641c772-2e24-45dc-a3b3-4e9797f50351)
+
  1. QUERY 1 (Simple) - This query lists all the subscribers who started in February. This is helpful to a manager to first know if the number of new users is larger or smaller compared to other months. Additionally, this could be helpful for promotions for customers who have been around for a certain amount of months.
 
 <img width="746" alt="Screenshot 2025-03-18 at 9 47 45 AM" src="https://github.com/user-attachments/assets/982302cd-6ab9-4732-b783-1357a57e974b" />
